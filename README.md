@@ -1,1 +1,2 @@
-Basic Recipe Website for Odin Foundational Course on HTML.
+The Odin Project Course on Full Stack Development.
+
